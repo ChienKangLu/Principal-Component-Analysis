@@ -16,7 +16,10 @@ Principal Component Analysis (PCA) is a technique which is used for dimension re
 3. Calculate the covariance matrix, ![image](http://latex.codecogs.com/gif.latex?X^T&space;X)
 4. Do eigen decomposition and get the eigen values  and eigen vectors
 5. Verify whether the decomposition is right or not, ![image](http://latex.codecogs.com/gif.latex?AX=X\Lambda)
-6. Project original data to the new space by the eigen vectors, ![image](http://latex.codecogs.com/gif.latex?proj_{\vec{v}}{\vec{x}}=\frac{\vec{x}&space;\cdot&space;\vec{v}}{\vec{v}&space;\cdot&space;\vec{v}})
+6. Project original data to the new space by the eigen vectors, 
+<p align="center">
+  <img src="http://latex.codecogs.com/gif.latex?proj_{\vec{v}}{\vec{x}}=\frac{\vec{x}&space;\cdot&space;\vec{v}}{\vec{v}&space;\cdot&space;\vec{v}}"/>
+</p>
 7. Visualization
 
 # Result
