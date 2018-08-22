@@ -19,3 +19,6 @@ Principal Component Analysis (PCA) is a technique which is used for dimension re
 6. Project original data to the new space by the eigen vectors
 7. Visualization
 
+# Result
+![image](https://github.com/ChienKangLu/Principal-Component-Analysis/blob/master/PCA/projection.png)
+
