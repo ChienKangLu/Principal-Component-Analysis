@@ -1,16 +1,16 @@
 # Principal-Component-Analysis
 Principal Component Analysis (PCA) is a technique which is used for dimension reduction.
 
-# Purpose
+## Purpose
 + Dimension reduction, keep the most important dimenstions
 + Find principle component
 + Project data a new space
 
-# Skill
+## Skill
 + Linear algebra: eigen decomposition
 + Vector projection
 
-# Implementation Step
+## Implementation Step
 1. Create data matrix which contains a lot of row vectors
 2. Normalize the matrix, which transforms all dimensions to the distribution of zero mean
 3. Calculate the covariance matrix, ![image](http://latex.codecogs.com/gif.latex?X^TX)
@@ -22,6 +22,6 @@ Principal Component Analysis (PCA) is a technique which is used for dimension re
     </p>
 7. Visualization
 
-# Result
+## Result
 ![image](https://github.com/ChienKangLu/Principal-Component-Analysis/blob/master/PCA/projection.png)
 
