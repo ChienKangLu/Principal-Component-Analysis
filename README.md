@@ -15,7 +15,7 @@ Principal Component Analysis (PCA) is a technique which is used for dimension re
 2. Normalize the matrix, which transforms all dimensions to the distribution of zero mean
 3. Calculate the covariance matrix
 4. Do eigen decomposition and get the eigen values  and eigen vectors
-5. we can verify whether the decomposition is right or not
+5. Verify whether the decomposition is right or not, ![image](http://latex.codecogs.com/gif.latex?AX=X\Lambda)
 6. Project original data to the new space by the eigen vectors
 7. Visualization
 
