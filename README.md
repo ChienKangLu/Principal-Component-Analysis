@@ -6,6 +6,10 @@ Principal Component Analysis (PCA) is a technique which is used for dimension re
 + Find principle component
 + Project data a new space
 
+## Develop tools and techniques
++ Python
++ Pycharm
+
 ## Skill
 + Linear algebra: eigen decomposition
 + Vector projection
